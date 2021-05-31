@@ -1,4 +1,4 @@
-package com.uarbekov.questionnaire.questionnaire;
+package com.uarbekov.questionnaire.service;
 
 import com.uarbekov.questionnaire.model.Questionnaire;
 import com.uarbekov.questionnaire.repository.QuestionnaireRepository;

@@ -1,7 +1,7 @@
 package com.uarbekov.questionnaire.controller;
 
 import com.uarbekov.questionnaire.model.Questionnaire;
-import com.uarbekov.questionnaire.questionnaire.QuestionnaireService;
+import com.uarbekov.questionnaire.service.QuestionnaireService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
